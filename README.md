@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Website
 
 A full stack e-commerce web application built with **React.js** for the frontend and **Node.js + Express.js** for the backend.
@@ -27,3 +28,7 @@ PROJECT/
   backend/
   .gitignore
   README.md
+=======
+# e-commerce
+e-commerce website built with React.js, Node.js, Express, and MySQL.
+>>>>>>> 7d0f3520975d9c9353c321679be08ee864a36e66
